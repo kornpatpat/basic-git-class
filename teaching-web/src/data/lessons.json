@@ -1,0 +1,85 @@
+{
+  "workshop": {
+    "title": "Web Design Workshop",
+    "subtitle": "From Figma → Code",
+    "audience": "Industrial Design Year 3",
+    "duration": "4 ชั่วโมง",
+    "emoji": "🎨"
+  },
+  "schedule": [
+    {
+      "time": "0:00 – 0:30",
+      "title": "Git & GitHub",
+      "icon": "🌿",
+      "color": "#69f0ae"
+    },
+    {
+      "time": "0:30 – 1:15",
+      "title": "HTML & CSS Basics",
+      "icon": "🏗️",
+      "color": "#4fc3f7"
+    },
+    {
+      "time": "1:15 – 1:30",
+      "title": "☕ Break",
+      "icon": "☕",
+      "color": "#ffab40"
+    },
+    {
+      "time": "1:30 – 2:15",
+      "title": "Next.js & JSX",
+      "icon": "⚡",
+      "color": "#b388ff"
+    },
+    {
+      "time": "2:15 – 3:30",
+      "title": "CSS Layout & Exercises",
+      "icon": "📐",
+      "color": "#ff80ab"
+    },
+    {
+      "time": "3:30 – 4:00",
+      "title": "Challenge & Wrap-up",
+      "icon": "🏆",
+      "color": "#fff176"
+    }
+  ],
+  "lessons": [
+    {
+      "id": 1,
+      "slug": "git-workflow",
+      "title": "Git & GitHub",
+      "subtitle": "Version Control สำหรับ Designer",
+      "icon": "🌿",
+      "color": "#69f0ae",
+      "description": "เรียนรู้ Git, Repository, Commit, Push, Pull"
+    },
+    {
+      "id": 2,
+      "slug": "html-css-basics",
+      "title": "HTML & CSS",
+      "subtitle": "ภาษาของเว็บไซต์",
+      "icon": "🏗️",
+      "color": "#4fc3f7",
+      "description": "Tags, Classes, IDs, Colors, Fonts, Display"
+    },
+    {
+      "id": 3,
+      "slug": "nextjs-jsx",
+      "title": "Next.js & JSX",
+      "subtitle": "React Framework สำหรับสร้างเว็บ",
+      "icon": "⚡",
+      "color": "#b388ff",
+      "description": "Components, JSX, Static Pages"
+    },
+    {
+      "id": 4,
+      "slug": "css-layout",
+      "title": "CSS Layout",
+      "subtitle": "จัด Layout แบบมืออาชีพ",
+      "icon": "📐",
+      "color": "#ff80ab",
+      "description": "Flexbox, Position, Box Model, Gap"
+    }
+  ]
+}

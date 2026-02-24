@@ -1,0 +1,31 @@
+/*
+  🎨 Exercise 02: Landing Page Hero
+  ==================================
+  Properties ที่ควรลอง:
+  - display: flex
+  - flex-direction: column
+  - justify-content: space-between / center
+  - align-items: center
+  - min-height: 100vh
+  - background: linear-gradient(...)
+  - gap
+  - padding
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* เริ่มเขียน CSS ที่นี่! 👇 */
+
+.hero {
+  min-height: 100vh;
+  background: #1a1a2e;
+  color: white;
+}
