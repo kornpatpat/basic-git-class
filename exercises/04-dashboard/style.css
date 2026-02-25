@@ -1,0 +1,29 @@
+/*
+  🎨 Exercise 04: Dashboard Layout
+  =================================
+  นี่คือโจทย์ยาก! ต้องใช้ทั้ง:
+  - display: flex (ซ้อนกันหลายชั้น)
+  - flex-direction: row / column
+  - flex: 1
+  - width คงที่ vs ยืดหยุ่น
+  - justify-content: space-between
+  - gap, padding, margin
+  - box-shadow
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f0f2f5;
+}
+
+/* เริ่มเขียน CSS ที่นี่! 👇 */
+
+.dashboard {
+  min-height: 100vh;
+}

@@ -1,0 +1,31 @@
+/*
+  🎨 Exercise 03: Portfolio Grid
+  ==============================
+  Properties ที่ควรลอง:
+  - display: flex, flex-wrap: wrap
+  - position: relative / absolute
+  - overflow: hidden
+  - transition
+  - :hover
+  - object-fit: cover
+  - transform: scale()
+  - opacity
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #111;
+  color: white;
+}
+
+/* เริ่มเขียน CSS ที่นี่! 👇 */
+
+.portfolio {
+  padding: 48px;
+}

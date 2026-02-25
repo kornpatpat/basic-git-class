@@ -1,0 +1,39 @@
+/*
+  🎨 Exercise 01: Profile Card
+  ============================
+  เขียน CSS ที่นี่เพื่อตกแต่ง Profile Card
+
+  💡 Properties ที่ควรลอง:
+  - background, color
+  - padding, margin
+  - border-radius
+  - text-align
+  - font-size, font-weight
+  - display: flex
+  - gap
+  - box-shadow
+*/
+
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #f0f2f5;
+}
+
+/* เริ่มเขียน CSS ที่นี่! 👇 */
+
+.card {
+  /* TODO: ตกแต่ง card */
+  background: white;
+  padding: 32px;
+}
