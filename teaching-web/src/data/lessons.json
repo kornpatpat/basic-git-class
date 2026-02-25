@@ -8,37 +8,37 @@
   },
   "schedule": [
     {
-      "time": "0:00 – 0:30",
+      "time": "13:00 – 13:30",
       "title": "Git & GitHub",
       "icon": "🌿",
       "color": "#69f0ae"
     },
     {
-      "time": "0:30 – 1:15",
+      "time": "13:30 – 14:15",
       "title": "HTML & CSS Basics",
       "icon": "🏗️",
       "color": "#4fc3f7"
     },
     {
-      "time": "1:15 – 1:30",
+      "time": "14:15 – 14:30",
       "title": "☕ Break",
       "icon": "☕",
       "color": "#ffab40"
     },
     {
-      "time": "1:30 – 2:15",
+      "time": "14:30 – 15:15",
       "title": "Next.js & JSX",
       "icon": "⚡",
       "color": "#b388ff"
     },
     {
-      "time": "2:15 – 3:30",
+      "time": "15:15 – 16:30",
       "title": "CSS Layout & Exercises",
       "icon": "📐",
       "color": "#ff80ab"
     },
     {
-      "time": "3:30 – 4:00",
+      "time": "16:30 – 17:00",
       "title": "Challenge & Wrap-up",
       "icon": "🏆",
       "color": "#fff176"
